@@ -42,14 +42,13 @@
         app:layout_constraintTop_toBottomOf="@+id/textView2"
         tools:text="That Camel Can Live Without Water For More Than One Week" />
 
-    <Button
+    <android.support.design.button.MaterialButton
         android:id="@+id/show_facts"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="17dp"
         android:layout_marginEnd="17dp"
-        android:elevation="16dp"
-        android:text="Show Facts"
+        android:text="@string/show_facts_button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 

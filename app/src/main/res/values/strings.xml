@@ -2,4 +2,5 @@
     <string name="app_name">Fun Facts</string>
     <string name="did_you_know">Did You Know ?</string>
     <string name="fact_place_holder">Ants stretch when they wake up in the morning.</string>
+    <string name="show_facts_button">Show Facts</string>
 </resources>

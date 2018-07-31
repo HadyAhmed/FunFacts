@@ -1,6 +1,7 @@
 package com.hadi.funfacts;
 
 import android.support.constraint.ConstraintLayout;
+import android.support.design.button.MaterialButton;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -13,7 +14,7 @@ import java.util.Random;
 public class MainActivity extends AppCompatActivity {
 
     private TextView textView;
-    private Button button;
+    private MaterialButton button;
     private ConstraintLayout layout;
 
     @Override
