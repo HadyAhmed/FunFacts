@@ -4,7 +4,10 @@ import android.graphics.Color;
 
 import java.util.Random;
 
-public class Facts {
+/**
+ * Fact Class will include Sample facts with text and background color
+ */
+public class Fact {
     public String getFacts() {
         String[] facts = {"Ants stretch when they wake up in the morning.",
                 "Ostriches can run faster than horses.",
